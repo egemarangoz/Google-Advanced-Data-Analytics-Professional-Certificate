@@ -71,11 +71,11 @@ __Tasks:__
 - Build the following machine learning models: random forest and XGBoost
 - Evaluate the models
 - Share an executive summary with the Waze leadership team
-- 
+
 __Deliverables:__
 - Machine learning  model with Python
 - Executive summary with recommendations and insights based on results
-- 
+
 ## Project for Course 7 - Google Advanced Data Analytics Capstone Project
 __Tasks:__
 - Build and evaluate a logistic regression model, or
